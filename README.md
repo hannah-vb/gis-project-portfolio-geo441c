@@ -16,4 +16,4 @@ Hannah VanBuren
 - [Understanding map coordinates]()
 ## **Web Mapping**
 
-- This [StoryMap collection](https://arcg.is/1q5bCm1) contains all maps I made using ArcGIS Online
+- This [StoryMap collection](https://storymaps.arcgis.com/collections/541f20079da0498982c5876fd38f86e7) contains all maps I made using ArcGIS Online
