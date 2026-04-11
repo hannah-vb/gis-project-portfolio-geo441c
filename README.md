@@ -9,7 +9,7 @@ Hannah VanBuren
 ## Basic Mapping
 
 - [First map in ArcGIS Pro](https://github.com/hannah-vb/gis-project-portfolio-geo441c/tree/main/basic-mapping)
-- [Multiple map frames in one map layout](https://github.com/hannah-vb/gis-project-portfolio-geo441c/blob/main/Week_2_Assignment_GEO_441.ipynb)
+- [Multiple map frames in one map layout](https://github.com/hannah-vb/gis-project-portfolio-geo441c/blob/main/basic-mapping/Week_2_Assignment_GEO_441.ipynb)
 
 ## Map Coordinate Basics
 
@@ -17,3 +17,6 @@ Hannah VanBuren
 ## **Web Mapping**
 
 - This [StoryMap collection](https://storymaps.arcgis.com/collections/541f20079da0498982c5876fd38f86e7) contains all maps I made using ArcGIS Online
+
+## Raster Analysis
+- [Thomas Fire Raster Analysis](https://github.com/hannah-vb/gis-project-portfolio-geo441c/blob/main/raster_analysis/raster_analysis_Thomas_fire.ipynb)
