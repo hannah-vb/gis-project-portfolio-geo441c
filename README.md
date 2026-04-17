@@ -10,7 +10,7 @@ Hannah VanBuren
 
 - [First map in ArcGIS Pro](https://github.com/hannah-vb/gis-project-portfolio-geo441c/tree/main/basic-mapping)
 - [Multiple map frames in one map layout](https://github.com/hannah-vb/gis-project-portfolio-geo441c/blob/main/basic-mapping/Week_2_Assignment_GEO_441.ipynb)
-
+- [Projecting Geographic Data](https://github.com/hannah-vb/gis-project-portfolio-geo441c/blob/main/Week_3_Assignment_VanBuren_Hannah.ipynb)
 ## Map Coordinate Basics
 
 - [Understanding map coordinates]()
