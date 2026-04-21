@@ -19,3 +19,5 @@ Hannah VanBuren
 
 ## Raster Analysis
 - [Thomas Fire Raster Analysis](https://github.com/hannah-vb/gis-project-portfolio-geo441c/blob/main/raster_analysis/raster_analysis_Thomas_fire.ipynb)
+## Vector Analysis
+- [Cholera Deaths](https://github.com/hannah-vb/gis-project-portfolio-geo441c/blob/main/vector_analysis/Cholera_deaths.ipynb)
