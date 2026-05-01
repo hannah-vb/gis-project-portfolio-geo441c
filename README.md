@@ -21,3 +21,4 @@ Hannah VanBuren
 - [Thomas Fire Raster Analysis](https://github.com/hannah-vb/gis-project-portfolio-geo441c/blob/main/raster_analysis/raster_analysis_Thomas_fire.ipynb)
 ## Vector Analysis
 - [Cholera Deaths](https://github.com/hannah-vb/gis-project-portfolio-geo441c/blob/main/vector_analysis/Cholera_deaths.ipynb)
+- [Ohio School Age Population and Tenessee 65 Years and Older Population](https://github.com/hannah-vb/gis-project-portfolio-geo441c/blob/main/vector_analysis/Census_Data_for_Spatial_Analysis.ipynb)
